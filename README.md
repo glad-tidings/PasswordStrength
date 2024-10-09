@@ -1,2 +1,7 @@
 # PasswordStrength
-Password strength component for .NET
+Password strength checker component for .NET
+
+## Example
+```c#
+
+```
