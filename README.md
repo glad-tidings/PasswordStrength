@@ -8,4 +8,4 @@ bool validPass = ParsElecom.PasswordStrength.PasswordCheck.IsValidPassword("pass
 
 
 
-![](http://visit.parselecom.com/Api/Visit/12/C1876B)
+![](http://visit.parselecom.com/Api/Visit/glad-tidings/PasswordStrength/C1876B)
